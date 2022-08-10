@@ -1,0 +1,54 @@
+html, body {
+    margin: 0;
+    background-color: lightgray;
+}
+
+h2 {
+    font-family: Helvetica, Arial, sans-serif;
+    padding: 0.7em 0;
+    text-align: center;
+}
+
+button {
+    background-color: pink;
+}
+
+table {
+    border: 2px solid black;
+}
+
+ul {
+    text-decoration: none;
+}
+
+li {
+    display: inline;
+ }
+
+.nav-checkboxes {
+    background-color: #c5c0c0;
+    display: flex;
+    justify-content: center;
+}
+
+ #paragraph {
+    display: none;
+}
+
+
+.nav-item {
+    color: #fff;
+    padding: 0 0.5em;
+}
+
+.form-check {
+    display: inline;
+}
+
+.logo {
+    height: 190px;
+    width: 190px;
+}
+
+
+
